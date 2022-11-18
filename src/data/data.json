@@ -1,0 +1,163 @@
+[
+
+        {
+                "id": 1,
+                "name": "Red Apples",
+                "image": "https://priyoshopbackup.blob.core.windows.net/priyoshop/content/Images/Thumbs/0173848_red-apple-500gm_550.jpeg",
+                "price": "$2.99",
+                "quantity": 4,
+                "description": "These are the freshest and juiciest red apples you will ever taste."
+            },
+            {
+                "id": 2,
+                "name": "Green Apples",
+                "image": "https://www.redapples.com/wp-content/uploads/2018/01/red-apple-varieties.jpg",
+                "price": "$3.99",
+                "quantity": 3,
+                "description": "These are the freshest and juiciest green apples you will ever taste."
+            },
+            {
+                "id": 3,
+                "name": "Bananas",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71K%2BBuoNwML._SY606_.jpg",
+                "price": "$0.99",
+                "quantity": 10,
+                "description": "These are the freshest and juiciest bananas you will ever taste."
+            },
+            {
+                "id": 4,
+                "name": "Oranges",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71swQw%2BCLLL._SY606_.jpg",
+                "price": "$1.99",
+                "quantity": 5,
+                "description": "These are the freshest and juiciest oranges you will ever taste."
+            },
+            {
+                "id": 5,
+                "name": "Grapes",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81U%2BGNFc%2BML._SY606_.jpg",
+                "price": "$2.99",
+                "quantity": 8,
+                "description": "These are the freshest and juiciest grapes you will ever taste."
+            },
+            {
+                "id": 6,
+                "name": "Strawberries",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81eqxpPx-mL._SY606_.jpg",
+                "price": "$2.99",
+                "quantity": 7,
+                "description": "These are the freshest and juiciest strawberries you will ever taste."
+            },
+            {
+                "id": 7,
+                "name": "Blueberries",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/814zDaLbCmL._SY606_.jpg",
+                "price": "$3.99",
+                "quantity": 9,
+                "description": "These are the freshest and juiciest blueberries you will ever taste."
+            },
+            {
+                "id": 8,
+                "name": "Raspberries",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/814zDaLbCmL._SY606_.jpg",
+                "price": "$4.99",
+                "quantity": 6,
+                "description": "These are the freshest and juiciest raspberries you will ever taste."
+            },
+            {
+                "id": 9,
+                "name": "Cherries",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81y4g3lm-oL._SY606_.jpg",
+                "price": "$5.99",
+                "quantity": 12,
+                "description": "These are the freshest and juiciest cherries you will ever taste."
+            },
+            {
+                "id": 10,
+                "name": "Pears",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81y4g3lm-oL._SY606_.jpg",
+                "price": "$4.99",
+                "quantity": 11,
+                "description": "These are the freshest and juiciest pears you will ever taste."
+            },
+            {
+                "id": 11,
+                "name": "Watermelon",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71C-akNv8-L._SY606_.jpg",
+                "price": "$6.99",
+                "quantity": 15,
+                "description": "These are the freshest and juiciest watermelons you will ever taste."
+            },
+            {
+                "id": 12,
+                "name": "Cantaloupe",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81GvTvI%2BgkL._SY606_.jpg",
+                "price": "$3.99",
+                "quantity": 14,
+                "description": "These are the freshest and juiciest cantaloupes you will ever taste."
+            },
+            {
+                "id": 13,
+                "name": "Honeydew",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81z4-Xo-E8L._SY606_.jpg",
+                "price": "$5.99",
+                "quantity": 13,
+                "description": "These are the freshest and juiciest honeydews you will ever taste."
+            },
+            {
+                "id": 14,
+                "name": "Peaches",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81v9I-LgDwL._SY606_.jpg",
+                "price": "$4.99",
+                "quantity": 16,
+                "description": "These are the freshest and juiciest peaches you will ever taste."
+            },
+            {
+                "id": 15,
+                "name": "Nectarines",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71F-6JZKDwL._SY606_.jpg",
+                "price": "$5.99",
+                "quantity": 17,
+                "description": "These are the freshest and juiciest nectarines you will ever taste."
+            },
+            {
+                "id": 16,
+                "name": "Plums",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81-YrTvq3mL._SY606_.jpg",
+                "price": "$6.99",
+                "quantity": 18,
+                "description": "These are the freshest and juiciest plums you will ever taste."
+            },
+            {
+                "id": 17,
+                "name": "Pineapple",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81S%2BWiukDmL._SY606_.jpg",
+                "price": "$7.99",
+                "quantity": 19,
+                "description": "These are the freshest and juiciest pineapples you will ever taste."
+            },
+            {
+                "id": 18,
+                "name": "Mangoes",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71-YrTvq3mL._SY606_.jpg",
+                "price": "$8.99",
+                "quantity": 20,
+                "description": "These are the freshest and juiciest mangoes you will ever taste."
+            },
+            {
+                "id": 19,
+                "name": "Kiwi",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71uX-X-LbzL._SY606_.jpg",
+                "price": "$2.99",
+                "quantity": 21,
+                "description": "These are the freshest and juiciest kiwis you will ever taste."
+            },
+            {
+                "id": 20,
+                "name": "Lychee",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81A-akNv8-L._SY606_.jpg",
+                "price": "$3.99",
+                "quantity": 22,
+                "description": "These are the freshest and juiciest lychees you will ever taste."
+            }
+]
