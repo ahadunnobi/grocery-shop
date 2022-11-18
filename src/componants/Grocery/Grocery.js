@@ -1,9 +1,9 @@
 import React from 'react';
-
-const Grocery = ({Grocery}) => {
+import {  HiOutlineShoppingCart } from "react-icons/hi"
+const Grocery = ({Grocery, handleCart}) => {
         const {name, image, price, description}= Grocery;
         return (
-                <div className='col-4 mt-3'>
+                <div className='col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 col-xxl-4'>
                       <div className="card">
                         <img src={image} className="card-img-top " alt="..."/>
                         <div className="card-body">
@@ -11,7 +11,7 @@ const Grocery = ({Grocery}) => {
                         <p className="card-text">{price}</p>
                         <p className="card-text">{description}</p>
                         <div className="d-grid">
-                        <button href="/" className="btn btn-outline-success">add to cart</button>
+                        <button onClick={()=>handleCart(Grocery)} className="btn btn-outline-success">ADD TO CART <HiOutlineShoppingCart className='ms-2 fs-3'></HiOutlineShoppingCart></button>
                         </div>
                         </div>
                       </div>  
