@@ -3,3 +3,7 @@
         width: 50px;
         border-radius: 50%;
 }
+.mt-5{
+        position: sticky;
+        top: 0;
+}

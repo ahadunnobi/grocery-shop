@@ -8,11 +8,11 @@ const Grocery = ({Grocery, handleCart}) => {
                       <div className="card">
                         <img src={image} className="card-img-top " alt="..."/>
                         <div className="card-body">
-                         <h5 className="card-title">{name}</h5>
-                        <p className="card-text">{price}</p>
+                         <h5 className="card-title ">{name}</h5>
+                        <p className="card-text fw-semibold">{price}</p>
                         <p className="card-text">{description}</p>
                         <div className="d-grid">
-                        <button onClick={()=>handleCart(Grocery)} className="btn btn-outline-success">ADD TO CART <HiOutlineShoppingCart className='ms-2 fs-3'></HiOutlineShoppingCart></button>
+                        <button onClick={()=>handleCart(Grocery)} className="btn btn-outline-success fw-semibold">ADD TO CART <HiOutlineShoppingCart className='ms-2 fs-3'></HiOutlineShoppingCart></button>
                         </div>
                         </div>
                       </div>  

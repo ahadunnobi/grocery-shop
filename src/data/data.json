@@ -3,7 +3,7 @@
     {
             "id": 1,
             "name": "Red Apples",
-            "image": "https://priyoshopbackup.blob.core.windows.net/priyoshop/content/Images/Thumbs/0173848_red-apple-500gm_550.jpeg",
+            "image": "https://img.freepik.com/free-photo/apples-red-fresh-mellow-juicy-perfect-whole-white-desk_179666-271.jpg?size=500&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
             "price": "$2.99",
             "quantity": 4,
             "description": "These are the freshest and juiciest red apples you will ever taste."
@@ -11,7 +11,7 @@
         {
             "id": 2,
             "name": "Green Apples",
-            "image": "https://letstalkscience.ca/sites/default/files/2019-08/is-a-green-apple-always-green.jpg",
+            "image": "https://img.freepik.com/free-photo/green-apple-with-leaves_1101-453.jpg?size=500&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
             "price": "$3.99",
             "quantity": 3,
             "description": "These are the freshest and juiciest green apples you will ever taste."
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "Bananas",
-            "image": "https://img.freepik.com/premium-photo/bananas-isolated_71632-145.jpg",
+            "image": "https://img.freepik.com/free-photo/front-close-view-delicious-bananas-exotic-food_140725-23062.jpg?size=500&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
             "price": "$0.99",
             "quantity": 10,
             "description": "These are the freshest and juiciest bananas you will ever taste."
@@ -27,7 +27,7 @@
         {
             "id": 4,
             "name": "Oranges",
-            "image": "https://img.freepik.com/premium-photo/orange-fruit-with-leaves-white-wall_253984-3354.jpg?w=500",
+            "image": "https://img.freepik.com/premium-psd/orange-fruits-basket-wooden-table_33736-3774.jpg?size=500&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
             "price": "$1.99",
             "quantity": 5,
             "description": "These are the freshest and juiciest oranges you will ever taste."
@@ -43,7 +43,7 @@
         {
             "id": 6,
             "name": "Strawberries",
-            "image": "https://img.freepik.com/free-photo/strawberries_1194-2304.jpg?size=500&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
+            "image": "https://img.freepik.com/premium-photo/black-bowl-with-strawberries-bowl-with-blueberries-cut-from-frame-bread-board_598621-649.jpg?size=500&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
             "price": "$2.99",
             "quantity": 7,
             "description": "These are the freshest and juiciest strawberries you will ever taste."
@@ -75,7 +75,7 @@
         {
             "id": 10,
             "name": "Pears",
-            "image": "https://img.freepik.com/premium-photo/three-green-pear-fruits-with-leaves-isolated_80510-590.jpg?size=500&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
+            "image": "https://img.freepik.com/free-photo/pear_1205-635.jpg?size=500&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
             "price": "$4.99",
             "quantity": 11,
             "description": "These are the freshest and juiciest pears you will ever taste."
@@ -91,7 +91,7 @@
         {
             "id": 12,
             "name": "Cantaloupe",
-            "image": "https://img.freepik.com/free-photo/top-view-fresh-healthy-cantaloupe-melon-with-slices-sack-cloth-white_141793-17299.jpg?size=626&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
+            "image": "https://img.freepik.com/free-photo/top-view-fresh-healthy-cantaloupe-melon-with-slices-sack-cloth-white_141793-17299.jpg?size=500&ext=jpg&ga=GA1.2.2032795749.1668794352&semt=sph",
             "price": "$3.99",
             "quantity": 14,
             "description": "These are the freshest and juiciest cantaloupes you will ever taste."
