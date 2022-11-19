@@ -1,6 +1,7 @@
 import React from 'react';
 import {  HiOutlineShoppingCart } from "react-icons/hi"
 const Grocery = ({Grocery, handleCart}) => {
+        // console .log(Grocery);
         const {name, image, price, description}= Grocery;
         return (
                 <div className='col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 col-xxl-4'>
