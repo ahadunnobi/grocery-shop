@@ -5,14 +5,16 @@ const Cart = ({ datas, removeItem}) => {
   let Chose4 = [];
   for (const data of datas) {
     Chose4 = [...Chose4, data];
-  };
+  }
+// / / make condition therir i tnk that can work
   const choseAgain = () =>{
     Chose4 = [];
-  };
+  }
   return (
     <div className="mt-5">
       <h2 className="pt-3">Chosed Grocery</h2>
-      {Chose4.map((Chose4) => (
+      {
+        Chose4.map((Chose4) => (
         <div
           className="mt-4 d-flex d-flex justify-content-between align-items-center"
           key={Chose4.id}
