@@ -1,14 +1,10 @@
 import "./cart.css";
 import { MdDeleteForever } from "react-icons/md";
 
-const Cart = ({ datas, removeItem}) => {
+const Cart = ({ datas, removeItem, choseAgain, choseOne}) => {
   let Chose4 = [];
   for (const data of datas) {
     Chose4 = [...Chose4, data];
-  }
-// / / make condition therir i tnk that can work
-  const choseAgain = () =>{
-    Chose4 = [];
   }
   return (
     <div className="mt-5">
@@ -28,11 +24,13 @@ const Cart = ({ datas, removeItem}) => {
         </div>
       ))}
       <div className="d-flex flex-row justify-content-center mt-3">
-        <button className="fw-semibold btn btn-outline-success" type="button">
+        <button
+        onClick={()=>choseOne(Chose4)}
+         className="fw-semibold btn btn-outline-success" type="button">
           Chose 1 for me
         </button>
         <button
-        onClick={choseAgain}
+        onClick={()=>choseAgain(Chose4)}
           className="ms-3 fw-semibold btn btn-outline-warning"
           type="button"
         >
