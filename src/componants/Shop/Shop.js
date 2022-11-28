@@ -18,7 +18,7 @@ const Shop = () => {
     if (Chosed.length >= 4) {
       const modal = document.getElementById("myModal");
       modal.style.display = "block";
-      document.getElementById("massage").innerText = "only 4 item";
+      document.getElementById("massage").innerText = "You can add only 4 item";
       const span = document.getElementsByClassName("close")[0];
       span.onclick = function () {
         modal.style.display = "none";
@@ -31,7 +31,7 @@ const Shop = () => {
     } else if (exists) {
       const modal = document.getElementById("myModal");
       modal.style.display = "block";
-      document.getElementById("massage").innerText = "already use";
+      document.getElementById("massage").innerText = "Already added in list";
       const span = document.getElementsByClassName("close")[0];
       span.onclick = function () {
         modal.style.display = "none";
