@@ -12,7 +12,7 @@ const Grocery = ({Grocery, handleCart}) => {
                         <p className="card-text fw-semibold">{price}</p>
                         <p className="card-text">{description}</p>
                         <div className="d-grid">
-                        <button onClick={()=>handleCart(Grocery)} className="btn btn-outline-success fw-semibold">ADD TO CART <HiOutlineShoppingCart className='ms-2 fs-3'></HiOutlineShoppingCart></button>
+                        <button id='myBtn' onClick={()=>handleCart(Grocery)} className="btn btn-outline-success fw-semibold">ADD TO CART <HiOutlineShoppingCart className='ms-2 fs-3'></HiOutlineShoppingCart></button>
                         </div>
                         </div>
                       </div>  
